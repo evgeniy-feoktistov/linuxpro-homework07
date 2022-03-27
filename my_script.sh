@@ -1,3 +1,4 @@
+#!/bin/bash
 ##Variables 
 #Log file
 log_file=./access.log
